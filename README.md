@@ -7,7 +7,8 @@ This repo documents exactly what I did:
 
 ## Screenshots
 - **Workbook world map**
-  ![Entra ID Authentication Success Geo Map](images/entra-workbook-map.png)
+  <img width="1861" height="890" alt="image" src="https://github.com/user-attachments/assets/9fb6bfeb-b344-40c3-908a-468f3710f874" />
+
 
 - **KQL results table**
   ![KQL table output](images/kql-table.png)
