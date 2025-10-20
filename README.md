@@ -11,7 +11,8 @@ This repo documents exactly what I did:
 
 
 - **KQL results table**
-  ![KQL table output](images/kql-table.png)
+<img width="2134" height="1131" alt="image" src="https://github.com/user-attachments/assets/22c9e34d-4bd5-4ef4-b07b-cca84e30b610" />
+
 
 ## Environment
 - **Platform**: Microsoft Sentinel (Azure)
